@@ -6,6 +6,6 @@ permalink: /people/
 
 Perspex Cloud are:
 
-Ruth - Head of Operations
+Ruth Routledge - Head of Strategy and Operations
 
-David - Head of Technology
+David Routledge - Head of Technology
