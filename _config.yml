@@ -24,7 +24,7 @@ github_username:  perspexcloud
 
 # Build settings
 markdown: kramdown
-theme: Minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
