@@ -6,6 +6,6 @@ permalink: /people/
 
 Perspex Cloud are:
 
-David
+Ruth - Head of Operations
 
-Ruth
+David - Head of Technology
