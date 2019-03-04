@@ -14,3 +14,5 @@ We specialise in design based on informed decisions, drawn from 25 years experie
 We deliver solutions that work up-front and carry on working.
   
 We can also help with voice coaching and team building. See [our voice page](../voice "Perspex Cloud - Voice") for details.
+
+Please note - we are not involved in plastics in any way!
