@@ -5,7 +5,7 @@
 # layout: home
 ---
 
-![Welcome to Perspex Cloud](../img/Gull.jpeg "Welcome to Perspex Cloud")
+![Welcome to Perspex Cloud](img/Gull.jpeg "Welcome to Perspex Cloud")
 
 Welcome to Perspex Cloud. 
 
