@@ -5,8 +5,8 @@
 # layout: home
 ---
 
-![Welcome to Perspex Cloud](img/Gull.jpeg "Welcome to Perspex Cloud")
+![Welcome to Perspex Cloud](img/Gull.jpg "Welcome to Perspex Cloud")
 
 Welcome to Perspex Cloud. 
 
-This is our blog page. Have a look around and contact (details at the bottom) with any questions.
+Have a look around and contact us (details at the bottom) with any questions.
