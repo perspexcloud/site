@@ -11,7 +11,7 @@ Perspex Cloud are a small computer technology company that offer durable, future
 
 We specialise in design based on informed decisions, drawn from 25 years experience in the industry.
 
-We deliver solutions that work up-front and carry on working.
+Perspex Cloud deliver solutions that work up-front and carry on working.
   
 We can also help with voice coaching and team building. See [our voice page](../voice "Perspex Cloud - Voice") for details.
 
