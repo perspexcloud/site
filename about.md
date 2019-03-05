@@ -15,4 +15,4 @@ Perspex Cloud deliver solutions that work up-front and carry on working.
   
 We can also help with voice coaching and team building. See [our voice page](../voice "Perspex Cloud - Voice") for details.
 
-Please note - we are not involved in plastics in any way!
+Please note - we are not involved in plastics in any way. See [our post on this matter](https://perspex.cloud/update/2019/03/05/what-we-are-not.html "What we are not").
