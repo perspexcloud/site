@@ -7,7 +7,9 @@
 
 ![Welcome to Perspex Cloud](img/Gull.jpg "Herring gull looking around")
 
-Welcome to Perspex Cloud. Like the herring gull, please have a look around.
+Welcome to Perspex Cloud.
+
+Like the herring gull, please have a look around.
 
 [Contact us](mailto:info@perspex.cloud) with any questions.
 
