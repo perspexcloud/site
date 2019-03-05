@@ -7,5 +7,7 @@
 
 ![Welcome to Perspex Cloud](img/Gull.jpg "Welcome to Perspex Cloud")
 
-Welcome to Perspex Cloud. Have a look around and contact us with any questions.
+Welcome to Perspex Cloud. Like the bird, please have a look around.
+
+[Contact us](mailto:info@perspex.cloud) with any questions.
 
