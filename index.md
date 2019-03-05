@@ -5,7 +5,7 @@
 # layout: home
 ---
 
-![Welcome to Perspex Cloud](img/Gull.jpg "Welcome to Perspex Cloud")
+![Welcome to Perspex Cloud](img/Gull.jpg "Herring gull looking around")
 
 Welcome to Perspex Cloud. Like the herring gull, please have a look around.
 
