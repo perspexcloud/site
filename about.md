@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![About Perspex Cloud](../img/13003B98-F82D-41B4-8E9A-F40CC255EA57.jpeg "Perspective view of Walton Pier, Essex, England")
+![About Perspex Cloud]({{ site.baseurl }}/img/13003B98-F82D-41B4-8E9A-F40CC255EA57.jpeg "Perspective view of Walton Pier, Essex, England")
 
 
 Perspex Cloud are a small computer technology company that offer durable, future-proof and scalable software solutions.
