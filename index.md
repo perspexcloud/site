@@ -5,7 +5,7 @@
 # layout: home
 ---
 
-![Welcome to Perspex Cloud](img/Gull.jpg "Herring gull looking around")
+![Welcome to Perspex Cloud]({{ site.baseurl }}/img/Gull.jpg "Herring gull looking around")
 
 Welcome to Perspex Cloud.
 
