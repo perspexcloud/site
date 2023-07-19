@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accountancy partnership"
-date:   2023-08-19 10:42:56 +0100
+date:   2023-08-19 09:42:56 +0100
 categories: update
 author: david
 ---
