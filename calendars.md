@@ -10,9 +10,9 @@ permalink: /calendars/
 Perspex Cloud are excited to announce their new calendar service.
 
 
-For a small annual fee, we offer educational establishments, such as schools, a shareable calendar that parents and students can subscribe to. This makes planning your lives much easier because you can instantly see when the school term dates and holidays are, going out into the future.
+For a small annual fee, we offer educational establishments, such as schools, a shareable calendar that parents and students can subscribe to. This makes the lives of your customers much easier because they can instantly see the school term dates and holidays alongside their personal calendars, going out into the future. They will thank you for it.
 
-We will maintain this calendar for you and keep it up to date with term dates, day start and end times and anomaly days (such as inset days) as soon as the information becomes available.
+We will maintain this calendar for your organisation and keep it up to date with term dates, day start and end times and anomaly days (such as inset days) as soon as the information becomes available.
 
 At Perspex Cloud, we specialise in solutions that work up-front and carry on working. Our calendars do just that.
 
