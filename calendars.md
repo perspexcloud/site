@@ -7,7 +7,7 @@ permalink: /calendars/
 ![Our Calendar Service]({{ site.baseurl }}/img/ChichesterHarbour.jpeg "Dusk at Cobnor Point, West Sussex, England")
 
 
-Perspex Cloud are excited to announce their new calendar service.
+Perspex Cloud are excited to announce their School Calendar Service.
 
 
 For a small annual fee, we offer educational establishments, such as schools, a shareable calendar that parents and students can subscribe to. This makes the lives of your customers easier because they can instantly see the school term dates and holidays alongside their personal calendars, going out into the future. They will thank you for it.
