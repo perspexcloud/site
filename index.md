@@ -9,7 +9,7 @@
 
 Welcome to Perspex Cloud.
 
-Like the herring gull, please have a look around.
+Like the herring gull, have a look around.
 
 [Contact us](mailto:info@perspex.cloud) with any questions.
 
