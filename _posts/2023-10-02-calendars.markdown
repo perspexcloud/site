@@ -8,4 +8,4 @@ author: david
 
 ![Our Calendar Service]({{ site.baseurl }}/img/ChichesterHarbour.jpeg "Dusk at Cobnor Point, West Sussex, England")
 
-Perspex Cloud are excited to announce our School Calendar Service. Please see our [dedicated page](https://perspex.cloud/calendars "About our School Calendar Service") on this.
+Perspex Cloud are excited to announce their School Calendar Service. Please see the [dedicated page](https://perspex.cloud/calendars "About our School Calendar Service") on this.
