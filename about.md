@@ -7,9 +7,9 @@ permalink: /about/
 ![About Perspex Cloud]({{ site.baseurl }}/img/13003B98-F82D-41B4-8E9A-F40CC255EA57.jpeg "Perspective view of Walton Pier, Essex, England")
 
 
-Perspex Cloud are a small computer technology company that offer durable, future-proof and scalable software solutions.
+Perspex Cloud are a computer technology company that offer durable, future-proof and scalable software solutions.
 
-We specialise in design based on informed decisions, drawn from 25 years experience in the industry.
+We specialise in design based on informed decisions, drawn from 25 years experience in the industry. For example, see [our calendar service](https://perspex.cloud/calendars "About our School Calendar Service").
 
 Perspex Cloud deliver solutions that work up-front and carry on working.
   
