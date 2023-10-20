@@ -4,7 +4,7 @@ title: Calendars
 permalink: /calendars/
 ---
 
-![Our Calendar Service]({{ site.baseurl }}/img/ChichesterHarbour.jpeg "Dusk at Cobnor Point, West Sussex, England")
+![Our School Calendar Service]({{ site.baseurl }}/img/ChichesterHarbour.jpeg "Dusk at Cobnor Point, West Sussex, England")
 
 
 Perspex Cloud are excited to announce their School Calendar Service.
