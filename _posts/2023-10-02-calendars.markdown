@@ -6,4 +6,4 @@ categories: update
 author: david
 ---
 
-Perspex Cloud are excited to announce our [School Calendar Service](https://perspex.cloud/calendars "About our School Calendar Service")
+Perspex Cloud are excited to announce our School Calendar Service. Please see our [dedicated page](https://perspex.cloud/calendars "About our School Calendar Service") on this.
