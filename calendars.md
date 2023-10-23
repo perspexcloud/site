@@ -9,7 +9,7 @@ permalink: /calendars/
 
 Perspex Cloud offer a School Calendar Service.
 
-We first developed this product for our own personal use, to help decipher the school term dates of our children when planning family holidays. It has been so useful, we thought we should share it.
+We first developed this product for our personal use, to help decipher the school term dates of our children when planning family holidays. It has been so useful, we thought we should share it.
 
 For a small annual fee, we offer schools a shareable calendar that parents and students can subscribe to. This makes the lives of your customers easier because they can instantly see the school term dates and holidays alongside their personal calendars. They will thank you for it.
 
